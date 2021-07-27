@@ -11,7 +11,7 @@
   <br>
   <br>
  
- | Nome documento  | link | versão  | versão anterior   |   |
+ | Nome documento  | link | versão atual  | versão anterior   |   |
 |:-:|------------------------------------|---|---|---|
 | Descrição informal da aplicação |  [LINK](https://drive.google.com/file/d/1guDHdE0r0xIPZ_OQ5wSVZn0NmOVRUXvc/view?usp=sharing) | 2.0 |   |   |
 | Documento de viabilidade | [LINK](https://drive.google.com/file/d/1PShzxjQ9g4NPeS7UJd352eJMw25G6r_i/view?usp=sharing) | 1.1 |   |   |
