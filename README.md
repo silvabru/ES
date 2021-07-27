@@ -13,11 +13,12 @@
  
  | Nome documento  | link | versão  |   |   |
 |:-:|------------------------------------|---|---|---|
-| Documento de abertura  |                                    |   |   |   |
-| Documento de viabilidade  |                                    |   |   |   |
+| Descrição informal da aplicação |                                    |   |   |   |
+| Documento de viabilidade |                                    |   |   |   |
+| Documento de abertura |                                    |   |   |   |
 |  Plano de projeto |                                    |   |   |   |
-|  Requisitos|                                    |   |   |   |
-|  Protótipo de baixa fidelidade|                                    |   |   |   |
- 
- 
+|  Requisitos |                                    |   |   |   |
+|  Protótipo de baixa fidelidade |                                    |   |   |   |
+|  Projeto de aplicação |                                    |   |   |   |
+|  Plano de teste |                                    |   |   |   |
  
