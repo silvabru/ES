@@ -11,7 +11,7 @@
   <br>
   <br>
  
- | Nome documento  | link | versão  |   |   |
+ | Nome documento  | link | versão  | versão anterior   |   |
 |:-:|------------------------------------|---|---|---|
 | Descrição informal da aplicação |                                    |   |   |   |
 | Documento de viabilidade |                                    |   |   |   |
