@@ -6,18 +6,18 @@
  
  Versão final:
  
- Documento de abertura <br>
- Documento de viabilidade <br>
- Plano de projeto <br>
- Requisitos <br>
+  <br>
+  <br>
+  <br>
+  <br>
  
  | Nome documento  | link | versão  |   |   |
 |:-:|------------------------------------|---|---|---|
-|   |                                    |   |   |   |
-|   |                                    |   |   |   |
-|   |                                    |   |   |   |
- 
- Protótipo de baixa fidelidade Vídeo:
+| Documento de abertura  |                                    |   |   |   |
+| Documento de viabilidade  |                                    |   |   |   |
+|  Plano de projeto |                                    |   |   |   |
+|  Requisitos|                                    |   |   |   |
+|  Protótipo de baixa fidelidade|                                    |   |   |   |
  
  
  
