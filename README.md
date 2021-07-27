@@ -6,7 +6,7 @@
  
  Versão final:
  
- Documento de abertura
+ Documento de abertura \br
  Documento de viabilidade
  Plano de projeto:
  Requisitos
