@@ -20,6 +20,6 @@
 |  Requisitos | [LINK](https://drive.google.com/file/d/1B73Qbr01jRQPuwMgqn0qpIr7E-zEc1M7/view?usp=sharing) | 1.0 |   |   |
 |  Protótipo de baixa fidelidade | [LINK]([https://drive.google.com/file/d/1BOvtqul5SiRbHtFBMZhX5AvWe7U_EMZh/view?usp=sharing]) | 1.0 |   |   |
 |  Protótipo de média fidelidade | [LINK]([https://drive.google.com/file/d/1BOvtqul5SiRbHtFBMZhX5AvWe7U_EMZh/view?usp=sharing]) | 1.0 |   |   |
-|  Protótipo de alta fidelidade plataforma | [LINK]([]) |   |   |   |
+|  Protótipo de alta fidelidade plataforma | [LINK]([cvc]) |   |   |   |
 
  
