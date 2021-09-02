@@ -20,7 +20,7 @@
 | Doc. Requisitos | [LINK](https://drive.google.com/file/d/1hotEsTZvY-M3CqsT2NwfzsGeqa9o0lrR/view?usp=sharing) | 2.0 | 1.0 |   |
 | Proj. Aplicação | [LINK](https://drive.google.com/file/d/1L-mYXNo_e9SVpcuMRquMQVJAH11PRx1y/view?usp=sharing) | 1.0 |   |   |
 | Plano de teste | [LINK](https://drive.google.com/file/d/1qf9f2ZuFej-Gv5MyvGtYPx_YsxiJn09b/view?usp=sharing) | 1.0 |   |   |
-| Document Game Design | [LINK](https://drive.google.com/file/d/11HyWl03gh52qI4OT1zs5GA28JGBlvSJH/view?usp=sharing) | 1.0 |   |   |
+| Documento de Game Design | [LINK](https://drive.google.com/file/d/11HyWl03gh52qI4OT1zs5GA28JGBlvSJH/view?usp=sharing) | 1.0 |   |   |
 | Protótipo de média fidelidade | [LINK](https://drive.google.com/file/d/1BOvtqul5SiRbHtFBMZhX5AvWe7U_EMZh/view?usp=sharing) | 1.0 |   |   |
 | Protótipo de alta fidelidade - Site da plataforma |  [LINK](https://framer.com/share/Wireframing--jnV93ZrVtO5znoEQuXNx/Pm92vPO0z) | 1.0  |   |   |
 
